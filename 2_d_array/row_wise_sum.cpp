@@ -64,6 +64,8 @@ int main(){
   printsum(arr,3,3);
   cout<<endl;
   printcolsum(arr,3,3);
+  printrowsum(arr,3,3);
+
   
  cout<<"Maximum row at index "<<largestRowsum(arr,3,3);
 }
