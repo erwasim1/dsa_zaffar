@@ -43,3 +43,6 @@ int main(){
     cout<<"Present or Not "<<Binarysearch(arr,0,5,key);
 
 }
+
+//tc->o(logn)
+//sc->0(logn)

@@ -14,3 +14,6 @@ int main(){
     int ans=factorial(n);\
     cout<<"Factorial of a given number is  "<<ans<<endl;
 }
+
+// tc->0(n)
+//sc->0(n)
